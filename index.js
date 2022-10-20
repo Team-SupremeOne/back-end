@@ -6,18 +6,20 @@ const cors = require('cors');
 
 
 //Middleware
+app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
-app.use(cors());
 
 
 //Redirect
 app.get('/', (req, res) => {
-    res.send('Hello WRLD!')
+    res.redirect('/artworks')
 })
 
 
 //Controllers
+const artworksController = require('./controllers/artworksController.js');
+app.use('/artworks', artworksController);
 
 
 
