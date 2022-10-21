@@ -24,6 +24,6 @@ app.use('/artworks', artworksController);
 
 
 
-app.listen(6060, () => {
-    console.log('HELLO WRLD!')
-})
+app.listen(app.get('port'), () => {
+	console.log(`✅ PORT: ${app.get('port')} 🌟`);
+});
