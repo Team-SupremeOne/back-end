@@ -7,10 +7,10 @@
     "category": "Modern Art"
     },
     {
-    "name": "Leonardo da Vinci - Mona Lisa", 
-	"image": "https://imgur.com/a/IgQiOih",
-	"description": "The Mona Lisa is an oil painting by Italian artist, inventor, and writer Leonardo da Vinci. Likely completed in 1506, the piece features a portrait of a seated woman set against an imaginary landscape. In addition to being one of the most famous paintings, it is also the most valuable.",
-    "artistInfo": "Leonardo da Vinci was a Renaissance painter, sculptor, architect, inventor, military engineer and draftsman — the epitome of a true Renaissance man. Gifted with a curious mind and a brilliant intellect, da Vinci studied the laws of science and nature, which greatly informed his work.",
+    "name": "Abraham Mignon - Flowers in a Metal Vase", 
+	"image": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=745&q=80",
+	"description": " Date:1670. Institution: Mauritshuis. Provider: Digitale Collectie.",
+    "artistInfo": "Mignon was a still life painter. He is known for his flower pieces, still lifes with fruit, still lifes in forests or grottoes, still lifes of game and fish as well as his garland paintings. His works are influenced by those of Jan Davidszoon de Heem and Jacob Marrel.",
     "category": "Renaissance Art" 
     },
     {
@@ -21,11 +21,11 @@
     "category": "Manga Art"
     },
     {
-    "name": "Hugo Simberg - Dancing with Death 1899", 
-	"image": "https://imgur.com/U2ahHiD",
+    "name": "Skelwith Force - Robert Hills", 
+	"image": "https://images.unsplash.com/photo-1578301978069-45264734cddc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=712&q=80",
 	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
+    "artistInfo": "Robert Hills was born in Islington. He primarily painted rural scenes, particularly farm animals.",
+    "category": "Realistic"
     }, 
     {
     "name": "Pablo Picasso - The Old Guitarist", 
@@ -35,102 +35,19 @@
     "category": "Cubism/Surrealism Art"
     },
     {
-    "name": "Salvador Dalí - The Persistence of Memory", 
-	"image": "https://imgur.com/gallery/TglvMsm",
-	"description": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First shown at the Julien Levy Gallery in 1932, since 1934 the painting has been in the collection of the Museum of Modern Art in New York City, which received it from an anonymous donor.",
-    "artistInfo": "Salvador Domingo Felipe Jacinto Dalí i Domènech, Marquess of Dalí of Púbol gcYC was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. Born in Figueres, Catalonia, Spain, Dalí received his formal education in fine arts in Madrid.",
-    "category": "Impressionism, Pointillism, Futurism, Cubism, and Neo-Cubism"
+    "name": "N/A", 
+	"image": "https://images.unsplash.com/photo-1549277513-f1b32fe1f8f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+	"description": "N/A",
+    "artistInfo": "N/A",
+    "category": "N/A"
     },
     {
-    "name": "Rudolph Hausner - Yellow Fool Hat", 
-	"image": "https://imgur.com/a/x5Kjhie",
-	"description": "The painter himself claims that the Fool’s Hat is his double, his alter ego, embodying another aspect of Adam. Whilst he himself is stuck in reality, constrained by circumstances, and must deal with them as he finds them and perceive what he sees, thus being largely the non-participatory observer of his time, this counterpart represents a melancholy, introverted, socially distant persona, turned in on itself. ",
-    "artistInfo": "Rudolf Hausner was an Austrian artist best known for his psychologically probing realism. Often depicting distorted figures in architectural and landscape scenes",
-    "category": "Psychic Realist Art"
+    "name": "E.R. Hughes - Night with her Train of Stars, 1912", 
+	"image": "https://images.unsplash.com/photo-1577083552792-a0d461cb1dd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=970&q=80",
+	"description": "The painting's title is derived from W. E Henley's (1849-1903) poem 'Margaritae Sorori' (Translates as 'Sister Margaret') ",
+    "artistInfo": "was a British painter, who primarily worked in watercolours, but also produced a number of oil paintings.",
+    "category": "Deep Dream Art"
     },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "",
-    "artistInfo": "Rudolf Hausner was an Austrian artist best known for his psychologically probing realism. Often depicting distorted figures in architectural and landscape scenes",
-    "category": "Contemporary"
-    }, 
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    }, 
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    }, 
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    }, 
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    },
-    {
-    "name": "Matthew Wong - Starry Night over the Rhone", 
-	"image": "https://imgur.com/U2ahHiD",
-	"description": "This is art",
-    "artistInfo": "Hong Kong-Canadian artist",
-    "category": "Contemporary"
-    } 
+
     
 ]
