@@ -1,9 +1,136 @@
 [
     {
+    "name": "Vincent Van Gogh - Starry Night over the Rhone", 
+	"image": "https://images.unsplash.com/photo-1580136579312-94651dfd596d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1017&q=80",
+	"description": "In the foreground, two lovers stroll by the banks of the river. Here his stars glow with a luminescence, shining from the dark, blue and velvety night sky. Dotted along the banks of the Rhone houses also radiate a light that reflects in the water and adds to the mysterious atmosphere of the painting.",
+    "artistInfo": "Vincent van Gogh was a Dutch painter, generally considered to be the greatest after Rembrandt van Rijn, and one of the greatest of the Post-Impressionists. He sold only one artwork during his life, but in the century after his death he became perhaps the most recognized painter of all time.",
+    "category": "Modern Art"
+    },
+    {
+    "name": "Leonardo da Vinci - Mona Lisa", 
+	"image": "https://imgur.com/a/IgQiOih",
+	"description": "The Mona Lisa is an oil painting by Italian artist, inventor, and writer Leonardo da Vinci. Likely completed in 1506, the piece features a portrait of a seated woman set against an imaginary landscape. In addition to being one of the most famous paintings, it is also the most valuable.",
+    "artistInfo": "Leonardo da Vinci was a Renaissance painter, sculptor, architect, inventor, military engineer and draftsman — the epitome of a true Renaissance man. Gifted with a curious mind and a brilliant intellect, da Vinci studied the laws of science and nature, which greatly informed his work.",
+    "category": "Renaissance Art" 
+    },
+    {
+    "name": "Junji Ito - Souichi's Beloved Pet", 
+	"image": "https://www.barnesandnoble.com/blog/wp-content/uploads/2019/06/Screen-Shot-2019-06-17-at-4.18.28-PM.png",
+	"description": "Souichi's Beloved Pet is the second chapter of New Voices in the Dark. The Tsujii family adopts a stray kitten that followed Sayuri home from school. They name him Colin. Colin scratches Souichi's face after Souichi falls on him from Sayuri slapping him that he torments him. After the mother is treating Souichi by medication where Kouichi and Sayuri scolding him, Souichi, angry that everyone is paying more attention to Colin than him, casts a curse which begins to manifest itself as a static crackle.",
+    "artistInfo": "Junji Ito is a mangaka who understands phobias, existential anxieties, and the terror of the unknown better than any other horror writer on Earth. Combining a deft artist's eye with a boundless and terrifying imagination, Junji Ito stands head and shoulders above every other horror writer around.",
+    "category": "Manga Art"
+    },
+    {
+    "name": "Hugo Simberg - Dancing with Death 1899", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    }, 
+    {
+    "name": "Pablo Picasso - The Old Guitarist", 
+	"image": "https://www.barnesandnoble.com/blog/wp-content/uploads/2019/06/Screen-Shot-2019-06-17-at-4.18.28-PM.png",
+	"description": "The Old Guitarist is an oil painting by Pablo Picasso, which he created in late 1903 and early 1904. It depicts an elderly musician, a haggard man with threadbare clothing, who is hunched over his guitar while playing in the streets of Barcelona, Spain.",
+    "artistInfo": "Pablo Ruiz Picasso was a Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France.",
+    "category": "Cubism/Surrealism Art"
+    },
+    {
+    "name": "Salvador Dalí - The Persistence of Memory", 
+	"image": "https://imgur.com/gallery/TglvMsm",
+	"description": "The Persistence of Memory is a 1931 painting by artist Salvador Dalí and one of the most recognizable works of Surrealism. First shown at the Julien Levy Gallery in 1932, since 1934 the painting has been in the collection of the Museum of Modern Art in New York City, which received it from an anonymous donor.",
+    "artistInfo": "Salvador Domingo Felipe Jacinto Dalí i Domènech, Marquess of Dalí of Púbol gcYC was a Spanish surrealist artist renowned for his technical skill, precise draftsmanship, and the striking and bizarre images in his work. Born in Figueres, Catalonia, Spain, Dalí received his formal education in fine arts in Madrid.",
+    "category": "Impressionism, Pointillism, Futurism, Cubism, and Neo-Cubism"
+    },
+    {
+    "name": "Rudolph Hausner - Yellow Fool Hat", 
+	"image": "https://imgur.com/a/x5Kjhie",
+	"description": "The painter himself claims that the Fool’s Hat is his double, his alter ego, embodying another aspect of Adam. Whilst he himself is stuck in reality, constrained by circumstances, and must deal with them as he finds them and perceive what he sees, thus being largely the non-participatory observer of his time, this counterpart represents a melancholy, introverted, socially distant persona, turned in on itself. ",
+    "artistInfo": "Rudolf Hausner was an Austrian artist best known for his psychologically probing realism. Often depicting distorted figures in architectural and landscape scenes",
+    "category": "Psychic Realist Art"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "",
+    "artistInfo": "Rudolf Hausner was an Austrian artist best known for his psychologically probing realism. Often depicting distorted figures in architectural and landscape scenes",
+    "category": "Contemporary"
+    }, 
+    {
     "name": "Matthew Wong - Starry Night over the Rhone", 
 	"image": "https://imgur.com/U2ahHiD",
 	"description": "This is art",
     "artistInfo": "Hong Kong-Canadian artist",
     "category": "Contemporary"
-    }
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    }, 
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    }, 
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    }, 
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    },
+    {
+    "name": "Matthew Wong - Starry Night over the Rhone", 
+	"image": "https://imgur.com/U2ahHiD",
+	"description": "This is art",
+    "artistInfo": "Hong Kong-Canadian artist",
+    "category": "Contemporary"
+    } 
+    
 ]
